@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Other files and folders
+TestProjectUE4/Saved/
+TestProjectUE4/Intermediate/
+TestProjectUE4/.vs/
+TestProjectUE4/Binaries/
+TestProjectUE4/TestProjectUE4.sln
+
+TestProjectUE4/Plugins/RawInput/Binaries/
+TestProjectUE4/Plugins/RawInput/Intermediate/
